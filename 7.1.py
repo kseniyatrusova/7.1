@@ -7,5 +7,5 @@ img.show()
 
 print("Ширина: ", img.size[0])
 print("Высота:  ", img.size[1])
-print("Формат: ", img.format)
 print("Цветовая модель:", img.mode)
+print("Формат: ", img.format)
